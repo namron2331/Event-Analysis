@@ -44,25 +44,6 @@ To analyze a network capture file to identify significant events or potential se
 - Autopsy: For forensic analysis of the capture file.
 
 ## Steps
-Capture File Details (Fig. 1):
-- Duration: The session capture lasted 8 minutes and 25 seconds.
-- Packets Captured: 2,449 packets were captured.
-- Bytes Captured: 811,157 bytes.
-  
-![image](https://github.com/user-attachments/assets/485b56e2-bdcb-44bc-a895-ce0f0859ea31)
-
-Protocol Hierarchy & Observed Protocols (Fig. 2):
-- TCP
-- HTTP
-- FTP
-- UDP
-- ARP
-  
-![image](https://github.com/user-attachments/assets/b16c0119-eaa7-4a5d-a13c-67c87f08cf44)
-
-
-![image](https://github.com/user-attachments/assets/3239029a-f3c6-494c-9b45-ee1a1613ba6d)
-
 
 
 
